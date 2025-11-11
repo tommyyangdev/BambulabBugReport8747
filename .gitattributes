@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+22E8BJ581900968_log_20251111105114_v01.01.00.00_enc.tar filter=lfs diff=lfs merge=lfs -text
